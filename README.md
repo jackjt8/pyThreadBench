@@ -1,5 +1,5 @@
 # pyThreadBench v0.0.1
-# Jack Peters, St Mary's University, 28/09/2017
+# Jack Peters, St Mary's University, 2017-09-28
 #
 # DESCRIPTION
 # 	For use in benchmarking effects of using pools to multi-thread workloads.
@@ -18,3 +18,7 @@
 #
 #         	10,000,000 approx. 1.3GB of memory.
 #           100,000,000 approx. 9GB of memory.
+#
+# TODO
+#	Add system resource monitoring (CPU + RAM usuage)
+#	Log system resources(?)
